@@ -43,7 +43,6 @@
 #define RVIZ_VISUAL_TOOLS__VISUAL_TOOLS_H_
 
 #include <ros/ros.h>
-#include <cmath> // for random poses
 
 // Eigen
 #include <Eigen/Geometry>
